@@ -1,0 +1,19 @@
+{
+  "name": "feishu-cli-hotrank-skill",
+  "version": "2.0.0",
+  "title": "飞书热榜&智能效率助手",
+  "description": "AI驱动的多领域热榜查询+飞书多维表格联动+智能问答，支持精准榜单筛选、数据导出、AI答疑，轻量高效、开源可复用，适配飞书CLI大赛冲奖需求",
+  "author": "zhangyq562022",
+  "type": "text+rich_text+card", 
+  "triggerKeywords": [
+    "热榜", "榜单", "排行榜", "查一下", "最新排行", "热门",
+    "AI查榜", "导出表格", "榜单答疑", "科技热榜", "娱乐热榜", "财经热榜"
+  ],
+  "supportedMethods": ["text", "rich_text", "card", "base"], 
+  "license": "MIT",
+  "openSource": true,
+  "repository": "https://github.com/zhangyq562022/feishu-cli-hotrank-skill",
+  "aiSupport": true, 
+  "featureTags": ["热榜查询", "AI Agent", "飞书多维表格", "办公效率", "开源可复用"], 
+  "compatibility": "all"
+}
